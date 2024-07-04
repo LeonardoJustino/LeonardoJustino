@@ -3,8 +3,8 @@
  ### No momento estou no 3° ano do ensino médio, penso em no ano que vem começar alguma facudade que envolve T.I 
  
 <a href="https://github.com/LeonardoJustino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardojustino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojustino&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="135em"  src="https://github-readme-stats.vercel.app/api?username=leonardojustino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="135em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojustino&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
   
 ##
