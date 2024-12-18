@@ -1,6 +1,6 @@
 
  ### Olá meu nome é Leonardo, atualmente tenho 18 anos, moro em Sertãozinho-SP. 
- ### No momento estou no 3° ano do ensino médio, penso em no ano que vem começar alguma facudade que envolve T.I 
+ 
  
 <a href="https://github.com/LeonardoJustino">
   <img height="135em"  src="https://github-readme-stats.vercel.app/api?username=leonardojustino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
