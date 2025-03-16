@@ -1,5 +1,5 @@
 
- ### Olá meu nome é Leonardo, atualmente tenho 18 anos, moro em Sertãozinho-SP. 
+ ### Olá meu nome é Leonardo, atualmente tenho 18 anos, moro em Sertãozinho-SP e estou cursando ADS pela estácio. 
  
  
 <a href="https://github.com/LeonardoJustino">
